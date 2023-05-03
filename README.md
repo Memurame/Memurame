@@ -8,6 +8,7 @@
 ![Codeigniter](https://img.shields.io/badge/codeigniter-%23FF2D20.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordpPress](https://img.shields.io/badge/wordpress-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
 ### Socials:
